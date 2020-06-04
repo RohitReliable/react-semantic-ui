@@ -4,7 +4,7 @@ Semantic UI is a UI component framework for theming websites. Semantic UI enable
 Demo: https://react-semantic-ui.herokuapp.com/
 
 ### Install
-$ git clone https://github.com/Reactongraph/react-semantic-ui.git
+$ git clone https://github.com/RohitReliable/react-semantic-ui.git
 
 $ cd react-semantic-ui
 
